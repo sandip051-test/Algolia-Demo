@@ -1,0 +1,23 @@
+{
+  "name": "algolia-demo",
+  "version": "1.0.0",
+  "description": "Algolia InstantSearch demo with products.json",
+  "main": "scripts/index.js",
+  "scripts": {
+    "start": "node scripts/index.js",
+    "index": "node scripts/index.js"
+  },
+  "keywords": [
+    "algolia",
+    "instantsearch",
+    "search",
+    "frontend",
+    "node"
+  ],
+  "author": "Sandip Kumar Ghosh",
+  "license": "MIT",
+  "dependencies": {
+    "algoliasearch": "^4.17.0"
+  },
+  "devDependencies": {}
+}
